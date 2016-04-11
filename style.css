@@ -1,0 +1,32 @@
+
+.navigacija {
+    text-align:right;
+}
+.desno {
+    float:right;
+}
+.okno {
+    width:200px;
+    height:30px;
+}
+.gumb {
+    height:30px;
+}
+.iskalo {
+    margin-top:200px;
+    text-align:center;
+}
+
+footer {
+    background-color:lightgrey;
+    height:100px;
+    margin-top:244px;
+}
+
+.prvistolpec {
+    float:left;
+}
+
+.meni {
+    list-style: none;
+}
